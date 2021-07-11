@@ -1,0 +1,277 @@
+{
+    "dialogue": [
+        {
+            "title_key": "go to A",
+            "block_index": 0,
+            "content": "YOU are in Principal Foster's office. The Principal is lanky and rather caustic. He speaks with a forced English accent. Behind the Principal's shoulder is an oversized bay window. You look through the window, watching as rain pours down in sheets. There is a layer of fog draped over the school. The Principal makes his announcements over the PA system.",
+            "image": "SchoolHall",
+            "audio_path": "office_printer_fax_machine",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "0",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "go to B",
+            "block_index": 1,
+            "content": "PRINCIPAL: Congratulations to our Senior Class, I hope you are having a great last day of finals week. I encourage you all to make good decisions as this momentous year comes to a close. \nThe Principal clicks off the PA system. His faux upbeat attitude fades away. He turns toward you, and clears his throat.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "1",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "go to C",
+            "block_index": 2,
+            "content": "PRINCIPAL: As YOU well know, this past week, we at Jefferson High school took our finals. Ms. Grables calculus final for the junior class is one of the hardest in this school. \nIt is a benchmark to which our faculty, and collegiate institutions measure student work. Thankfully...every single student in her class received an A on their exam...including you. You must be very proud of your work.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "2",
+                    "A1": "I am.",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "I am.",
+            "block_index": 3,
+            "content": "YOU: I am... Worked my ass off. Glad I got an A. \nPRINCIPAL: ...You expect me to believe that both you and your peers attained their scores by miraculously finding some newfound focus and determination?",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "3",
+                    "A1": "That's the way it seems.",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "That's the way it seems.",
+            "block_index": 4,
+            "content": "PRINCIPAL: It seems impossible. Some of these \"A students\" averaged a 2.8 GPA throughout the semester. After four straight C's trying to guess what Pi is on a pop quiz, these students manage to ace Jefferson's hardest test?...I've formed a hypothesis...",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "4",
+                    "A1": "You think we cheated.",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "You think we cheated.",
+            "block_index": 5,
+            "content": "YOU: You think we cheated. Save the drama. \nPRINCIPAL: Bingo! Nailed it! The most puzzling piece to this whole predicament is that the Calculus answer keys went missing two days before the exam. I'm sure you know what I am talking about.   \nYOU: Wait, hold on for one second...I'm trying to go to college next year. I would not steal any tests...Absolutely not...",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "5",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "go to G",
+            "block_index": 6,
+            "content": "PRINCIPAL: College is a seriously bold idea you have there, especially considering your record. You were expelled from your previous school...brought fireworks on a school bus? \nYOU: They went off in my backpack...that was a long time ago. \nPRINCIPAL: Reputation carries weight. At this school, we do not tolerate academic dishonesty. You are expelled. Go clean out your locker.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "6",
+                    "A1": "What the hell?!",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "What the hell?!",
+            "block_index": 7,
+            "content": "YOU: Am I not awarded a fair hearing? \nPRINCIPAL: You will not be returning to Jefferson for senior year. \nYOU: I didn't do anything!",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "7",
+                    "A1": "You can't!",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "You can't!",
+            "block_index": 8,
+            "content": "PRINCIPAL: The Principal holds his hand up, motioning for you to exit. There is nothing left to say. ",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "8",
+                    "A1": "Exit Principal's office.",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Go to Ms. Grables Class",
+            "block_index": 9,
+            "content": "YOU exit the Principal's office in complete shock, and obvious confusion. \nWhy YOU? It can't just be your past. This doesn't make sense, you did not steal the tests. \nThe hallway is empty, everyone must still be at lunch. \nYou get to your messy locker, and start to fill your black Jansport with all its contents. \nFuck this school. You've never liked this place.",
+            "image": "Mr_Grables",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "9",
+                    "A1": "Leave school.",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Leave school.",
+            "block_index": 10,
+            "content": "You grab your bag and start to head towards the exit. You can't help but stop. \nYOU: He said Ms. Grables class... \nYou check your surroundings. Just to your left, in the hallway, is Ms. Grables classroom. You walk to her door, just before entering, you pause for a moment. Should you? What do you hope to find?...What do you have to lose?",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "10",
+                    "A1": "Enter Classroom",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Enter Classroom",
+            "block_index": 11,
+            "content": "The door to Ms. Grables classroom slowly creaks open. \nYOU: Hello, anyone here?  \nAll the lights are off. The smell of Ms. Grables perfume hangs in the air. You never knew that something could smell fruity and musky.",
+            "image": "ClassRoom",
+            "audio_path": "door_open",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "11",
+                    "A1": "Approach broad window",
+                    "A2": "Open Ms. Grables' computer",
+                    "A3": "Search student desks"
+                }
+            ]
+        },
+        {
+            "title_key": "Approach broad window",
+            "block_index": 12,
+            "content": "You approach the window and look out towards the back fence of Jefferson. The fog has only encroached further into town, the huffing wind rising up to rustle the broad window. Tiny rain droplets multiply against the glass. The day is not even into the afternoon, yet the predominantly dark clouds are menacing. The sky is grey velvet. \nYOU: This town fuckin' sucks.",
+            "image": "Window",
+            "audio_path": "window_rain",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "12",
+                    "A1": "Enter Classroom",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Open Ms. Grables' computer",
+            "block_index": 13,
+            "content": "Ms. Grables desk is not what you come to expect from a calculus teacher, it is exceedingly messy. \nGraded quizzes are strewn across her desk, alongside a half eaten box of donuts. Her computer is an old, dated public school desktop. ",
+            "image": "Computer",
+            "audio_path": "",
+            "answer_key": "WARTHOG",
+            "answers": [
+                {
+                    "key": "13",
+                    "A1": "",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Search student desk",
+            "block_index": 14,
+            "content": "You head to the neat rows of organized wooden desks. You move towards the back of the classroom, and spot a desk with carved lettering in its wood. \nThe top left corner reads: CALL ME (594)920-3755. \nThe top right corner reads: I HATE YOU BEN!!!! \nThe bottom middle reads: pwWARTHOG! \nThe bottom right reads: MS. GRABLE has warts. \nYou examine the desk for something helpful...",
+            "image": "Desk_Carving",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "14",
+                    "A1": "Enter Classroom",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        
+        {
+            "title_key": "WARTHOG",
+            "block_index": 15,
+            "content": "The computer loads in, you've entered the correct password. Her e-mail pops up immediately. Why the hell are you doing this? This cannot be legal...You need to turn off the computer. You spot a subject line in her e-mail...Operation Gnarwal. You read the description below.",
+            "image": "Computer",
+            "audio_path": "correct_pw",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "15",
+                    "A1": "Read email",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Read email",
+            "block_index": 16,
+            "content": "It's an e-mail exchange between Ms. Grables and Kent Sussman, the music teacher. \nYOU: What is Operation Gnarwal? \nYou open the e-mail and read the conversation. \nMS. GRABLES (on e-mail): Have you distributed all of them? \nKENT (on e-mail): Yup, every last one. \nWhat the hell are they referring to? You STOP...there are footsteps outside the door...",
+            "image": "Computer",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "16",
+                    "A1": "Get to broad window",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        }
+    ]
+}

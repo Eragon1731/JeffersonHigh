@@ -1,0 +1,324 @@
+{
+    "dialogue": [
+        {
+            "title_key": "Enter Vent",
+            "block_index": 0,
+            "content": "You enter the vent. The metal is cold and it's a tight squeeze, your backpack is scraping along the top. You can hear all the noises of school, they are amplified through the vent.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "0",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "enter vent part 2",
+            "block_index": 1,
+            "content": "You crawl forward, and come to a fork in the road.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "1",
+                    "A1": "Left",
+                    "A2": "Right",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Left",
+            "block_index": 2,
+            "content": "You choose left and continue to crawl. From below you hear voices. There is an opening in the vent, you are right over the computer lab. The computer lab nerds are in an argument over something important.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "2",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "left part 2",
+            "block_index": 3,
+            "content": "NERD: Every single game has copied Breath of the Wild! That is a plain fact. \nThe argument is heated. \nFRIEND: How can you say that?! Dark Souls is far and away the most copied system.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "3",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "left part 3",
+            "block_index": 4,
+            "content": "The nerd takes off his glasses, and rubs his eyes. \nNERD: It is hilarious how stupid you are. \nYou shake your head and continue on. Up ahead the paths re-join in the middle.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "4",
+                    "A1": "Middle",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Right",
+            "block_index": 5,
+            "content": "You choose right and continue to crawl. From below you hear voices. There is an opening in the vent, you're over the football gym. The jocks are bench pressing and doing burpies.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "5",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "right part 2",
+            "block_index": 6,
+            "content": "JOCK: Hell yeah, brother! Get after it! \nThe jock spots his friend who comes close to finishing the last press... \nJOCK: Almost there! \nThe jock places the bar in the holders, they chest bump! \nJOCK: Good shit. \nYou shake your head and continue on. Up ahead the paths re-join in the middle.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "6",
+                    "A1": "Middle",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Middle",
+            "block_index": 7,
+            "content": "You move towards the middle path. Up ahead, there are more voices coming from an open vent. These don't sound like students. You inch closer to the open vent and listen:",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "7",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 2",
+            "block_index": 8,
+            "content": "TEACHER #1: Have you gotten your bonus yet? \nTEACHER #2: No, but I was told end of day. \nTEACHER #1: I can't believe they pulled this off... \nTEACHER #2: Me neither...",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "8",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 3",
+            "block_index": 9,
+            "content": "The door opens, a third person enters the room, the teacher's immediately fall silent. The vent creaks beneath you \nTEACHER #3: Hi, Luke...Laura. What are you two talkin' about? ",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "9",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 4",
+            "block_index": 10,
+            "content": "You recognize the voice and move slowly toward the vent. You look down...it's MS. GRABLES. \nLUKE: We weren't talking about anything... \nMS. GRABLES: You'll have to excuse me. I had just stepped out for a moment to grab my coffee, but that is not what your conversation sounded like to me.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "10",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 5",
+            "block_index": 11,
+            "content": "Ms. Grables menacing tone scares both teachers. \nMS. GRABLES: Talking about this at school? Imagine if someone heard you. Foster needs this to be air tight or none of us get anything. Use your fucking heads.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "11",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 6",
+            "block_index": 12,
+            "content": "You whisper to yourself. \nYOU: Did she say, Foster? \nLAURA: I'm sorry, Mary... \nMs. Grables turns her eyes toward Luke... \nMS. GRABLES: What about you?",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "12",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 7",
+            "block_index": 13,
+            "content": "LUKE: Me too. \nThe creaky vent starts to RATTLE, the three teachers look up. You try to pull back but the movement is too much - BOOM! The metal vent busts open and you come crashing into the teacher's lounge.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "13",
+                    "A1": "Brace Yourself",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Brace Yourself",
+            "block_index": 14,
+            "content": "You and the vent come crashing onto the teacher's lounge coffee table. \nYOU: That hurt...",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "14",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "brace yourself part 2",
+            "block_index": 15,
+            "content": "Ms. Grables and the two teachers stand back in shock. Ms. Grables quickly realizes who just landed in front of her. \nMS. GRABLES: YOU HEARD US! GET 'EM TO FOSTER, NOW! \nLuke and Laura dive towards you, Ms. Grables yells for security.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "15",
+                    "A1": "RUN",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "RUN",
+            "block_index": 16,
+            "content": "You take off sprinting down the hallway, spinning around two girls gossiping by the doorway. Security is already on you. \nGIRLS: Watch it!",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "16",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "RUN part 2",
+            "block_index": 17,
+            "content": "YOU continue running down the hallway, evading student after student. In your path is another security guard; This guy is a brawler. You have to think fast.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "17",
+                    "A1": "Slide",
+                    "A2": "Jump",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Jump",
+            "block_index": 18,
+            "content": "The security guard dives ahead, but you're nimble. You JUMP over the bulky security guard, and clear his reach - NOPE! An arm grabs your collar, yanking you back. You are caught. \nSECURITY: I'm taking you to Principal Foster.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "18",
+                    "A1": "Principal's Office",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Slide",
+            "block_index": 19,
+            "content": "The security guard dives ahead, but you're nimble. You SLIDE along the waxey floor, evading his reach. You've cleared him...NOPE! An arm grabs your collar and yanks you back. You are caught. \nSECURITY: Let's get you to Foster. ",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "19",
+                    "A1": "Principal's Office",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        }
+    ]
+}

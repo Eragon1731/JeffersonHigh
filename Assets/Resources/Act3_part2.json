@@ -1,0 +1,340 @@
+{
+    "dialogue": [
+        {
+            "title_key": "Go under",
+            "block_index": 0,
+            "content": "A ways down, you come to a vent on the right side. You are over Principal Foster's office. He places the fake Van gogh painting back onto his wall. He's on speaker phone.\nPRINCIPAL: I had to get rid of the kid. He's a trouble maker. No...No. It's for the good of our faculty. \nYOU: Blaming me? \nPRINCIPAL: I'm not worried about it...I have to go. \nYou continue onwards.",
+            "image": "vent_1",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "0",
+                    "A1": "Left",
+                    "A2": "Right",
+                    "A3": "Middle "
+                }
+            ]
+        },
+        {
+            "title_key": "Turn back",
+            "block_index": 1,
+            "content": "Wait...this path looks familiar. You can't be sure.\nYou continue onwards.",
+            "image": "vent_1",
+            "audio_path": "airvent",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "1",
+                    "A1": "Left",
+                    "A2": "Right",
+                    "A3": "Middle "
+                }
+            ]
+        },
+        {
+            "title_key": "Left",
+            "block_index": 2,
+            "content": "It's the gym, again. Looks like the jocks are still being themselves. \nYOU:Probably nice to be a carefree idiot",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "2",
+                    "A1": "Turn back",
+                    "A2": "Right",
+                    "A3": "Middle "
+                }
+            ]
+        },
+        {
+            "title_key": "Right",
+            "block_index": 3,
+            "content": "You crawl past another vent, it's Rose and Su. They're chatting about their nails now. Gossip can be horrible, but it sucks a lot more to be forgotten. ",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "3",
+                    "A1": "Left",
+                    "A2": "Turn back",
+                    "A3": "Middle "
+                }
+            ]
+        },
+        {
+            "title_key": "Middle",
+            "block_index": 4,
+            "content": "You make it to the middle path. Up ahead, there are more voices coming from an opening. These don't sound like students. You inch closer to the open vent and listen...",
+            "image": "vent_1",
+            "audio_path": "whispering",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "4",
+                    "A1": "Listen",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Listen",
+            "block_index": 5,
+            "content": "MR. MATTHEWS: Have you received your bonus yet? \nMS. BIDNER: No, but I was told end of day. \nMR. MATTHEWS: I can't believe they pulled this off... \nMS. BIDNER: Me neither.",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "5",
+                    "A1": "Bonus?",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Bonus?",
+            "block_index": 6,
+            "content": "The door opens, a third person enters the room. Both teachers immediately fall silent. The vent creaks beneath you. \nTEACHER #3: Hi, Mr. Matthews, Ms. Bidner. What was that I heard you discussing?",
+            "image": "ventWithWinBelow",
+            "audio_path": "door_open",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "6",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 4",
+            "block_index": 7,
+            "content": "You recognize the voice, and crawl slowly towards the open vent. You look down - it's MS. GRABLES. \nMR. MATTHEWS: We weren't talking about anything... \nMS. GRABLES: You'll have to excuse me. \nGrables turns aggressive. \nMS. GRABLES: I just stepped out for a moment to grab my coffee...and I heard something about a bonus?",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "7",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 5",
+            "block_index": 8,
+            "content": "Ms. Grables harrowing tone scares both teachers. \nMS. GRABLES: Talking about this at school? Imagine if someone heard you. This needs to be air tight or none of us get anything. Use your fucking heads.",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "8",
+                    "A1": "Get what?",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Get what?",
+            "block_index": 9,
+            "content": "MS. BIDNER: I'm sorry, Mary... \nMs. Grables turns her eyes towards MR. MATTHEWS... \nMS. GRABLES: Where is your apology?",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "9",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "middle part 7",
+            "block_index": 10,
+            "content": "MR. MATTHEWS: I'm sorry. It won't happen again. \nThe creaky vent starts to RATTLE, the three teachers look up towards you. You try to get out of sight, but the movement is too much - BOOM! The metal vent busts open. You crash into the teacher's lounge.",
+            "image": "teacherCoffeeTable_closeeye",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "10",
+                    "A1": "Brace yourself",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Brace yourself",
+            "block_index": 11,
+            "content": "You SLAM onto the teacher's lounge coffee table.",
+            "image": "teacherCoffeeTable",
+            "audio_path": "weightsDrop",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "11",
+                    "A1": "Oh no...",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Oh no...",
+            "block_index": 12,
+            "content": "Ms. Grables and the two teachers stand back in shock. Ms. Grables suddenly realizes who just landed in front of her. \nMS. GRABLES: HE HEARD US! GET 'EM TO FOSTER, NOW! \nMr. Matthews and Ms. Bidner dive for you, Ms. Grables yells for security.",
+            "image": "teacherCoffeeTable",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "12",
+                    "A1": "RUN",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "RUN",
+            "block_index": 13,
+            "content": "You take off sprinting down the hallway, dodging Su and Rose gossiping outside the classroom. \nGIRLS: Watch it! \nSecurity and Faculty are already in hot pursuit.",
+            "image": "SchoolHall",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "13",
+                    "A1": "SORRY",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "SORRY",
+            "block_index": 14,
+            "content": "YOU continue running down the hallway, evading student after student. Faculty are on your tail. Ahead of you is a security guard; This guy is a brawler. You have to think fast.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "14",
+                    "A1": "Slide",
+                    "A2": "Jump",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Jump",
+            "block_index": 15,
+            "content": "The security guard lunges forward, but you're nimble. You JUMP over the bulky security guard, and clear his reach - NOPE! An arm grabs your collar, yanking you backwards. You are caught.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "15",
+                    "A1": "Grab mop",
+                    "A2": "Push cart",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Slide",
+            "block_index": 16,
+            "content": "The security guard lunges forward, but you're nimble. You SLIDE along the waxey floor, evading his reach. You've cleared him...NOPE! An arm grabs your collar and yanks you backwards. You are caught. There is a mop cart to your right.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "16",
+                    "A1": "Push cart",
+                    "A2": "Grab mop",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Grab mop",
+            "block_index": 17,
+            "content": "You grab a mop from the cleaning cart. You SWING the mop tightly with both hands and try to knock down the security guard. Just as you're about to get free, the other mountainous security guard tackles you to the ground. Your strength is ummatched for the security guard. He pins your arms down, you are powerless to resist. \nYou are caught.",
+            "image": "mop",
+            "audio_path": "swing-mop",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "17",
+                    "A1": "Crap",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Push cart",
+            "block_index": 18,
+            "content": "You have to confront this guard, but he's strong. You run to the cleaning cart and flip it over. Detergents, mops, brooms, and various cleaning items get scattered across the hallway. You continue to sprint towards the gate, the security guard trips over the cart. \nYour lungs are in pain from running, but your adrenaline is surging. The exit is right in front of you.",
+            "image": "cleanCart",
+            "audio_path": "rolling-cart",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "18",
+                    "A1": "RUN TO GATE",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "RUN TO GATE",
+            "block_index": 19,
+            "content": "The gate is just in front of your eyes! You can escape from this madness by leaving!",
+            "image": "gate",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "19",
+                    "A1": "OPEN GATE",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "OPEN GATE",
+            "block_index": 20,
+            "content": "You shove the gate but feel immediate resistance.\n...\n...GOD! DAMN IT, it's not opening! It's locked. You hit the gate hard with your body, but the gate doesn't move. An arm grabs your collar, and yanks you back. You are caught.\nSECURITY: I'm taking you to Principal Foster.",
+            "image": "pushGate",
+            "audio_path": "metal-gate",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "20",
+                    "A1": "Crap",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        }
+    ]
+}

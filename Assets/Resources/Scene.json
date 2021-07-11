@@ -1,0 +1,36 @@
+{
+  "dialogue":
+  [
+    {
+        "title": "A",
+        "content": "I woke up",
+        "answers": [
+            {
+                "key": "0",
+                "A1": "",
+                "A2": "",
+                "A3": ""
+            }
+        ]
+    },
+    {
+       "title": "B",
+       "content": "Something happened. How do you feel ?",
+       "answers": [
+            { "key":  "1", "A1": "unsure", "A2": "happy", "A3":  "indifferent"}
+       ]
+    },
+    {
+        "title": "C",
+        "content": "I feel happy",
+        "answers": [
+            {
+                "key": "2",
+                "A1": "",
+                "A2": "",
+                "A3": ""
+            }
+        ]
+    }
+  ]
+}

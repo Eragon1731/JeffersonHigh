@@ -1,0 +1,36 @@
+{
+    "dialogue": [
+        {
+            "title_key": "go to A",
+            "block_index": 0,
+            "content": "YOU are in Principal Foster's office. The Principal makes his announcements over the PA system.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "0",
+                    "A1": "Look out the Window",
+                    "A2": "Stare down the principal",
+                    "A3": "Listen to principal  "
+                }
+            ]
+        },
+        {
+            "title_key": "Look out the Window",
+            "block_index": 1,
+            "content": "Behind the Principal's shoulder is an oversized bay window. You look through the window, watching as rain pours down in sheets. There is a layer of fog draped over the school.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "1",
+                    "A1": "back",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        }
+    ]
+}

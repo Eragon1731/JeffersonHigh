@@ -1,0 +1,468 @@
+{
+    "dialogue": [
+        {
+            "title_key": "Principal's Office",
+            "block_index": 0,
+            "content": "YOU are in the Principal's office. Seated, once again, in front of the large Mahogany desk. \nStanding over your shoulder is the security guard who caught you moments ago.",
+            "image": "principaloffice",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "0",
+                    "A1": "Look at security",
+                    "A2": "Look at window",
+                    "A3": " "
+                }
+            ]
+        },
+        {
+            "title_key": "Return",
+            "block_index": 1,
+            "content": "YOU are in the Principal's office. Seated, once again, in front of the large Mahogany desk. \nStanding over your shoulder is the security guard who caught you moments ago.",
+            "image": "principaloffice",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "1",
+                    "A1": "Look at security",
+                    "A2": "Look at window",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Look at security",
+            "block_index": 2,
+            "content": "You look at the security guard. \nSECURITY: The principal said he will be here in 5 minutes. I am going to be right outside the door. Please don't do anything stupid.\nYOU: ......\nThe security guard exits. You look around the room. There must be some secret hiding in this room. Didn't he move his fake Monet earlier?",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "2",
+                    "A1": "Go to closet",
+                    "A2": "Approach desk",
+                    "A3": "Look at window "
+                }
+            ]
+        },
+        {
+            "title_key": "Look at window",
+            "block_index": 3,
+            "content": "The rain has picked up outside of Foster's bay window. The fog has moved even closer to the school.  You can't help but stare out at the dismal day. The weather is comforting. ",
+            "image": "",
+            "audio_path": "windowRain",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "3",
+                    "A1": "Return",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Go to closet",
+            "block_index": 4,
+            "content": "You approach his stand-up closet, and open its doors. There are rows of neatly pressed navy suits. You check the pockets and find nothing except a few business cards.\nYou continue to look around the room. You spot the tacky re-make of Monet's Garden on Foster's wall opposite his desk. The painting is slightly ajar....",
+            "image": "closet",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "4",
+                    "A1": "Go to painting",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Approach desk",
+            "block_index": 5,
+            "content": "You open his desk drawer. There is a green manilla envelope. It contains budget reports for the school. There are budget cuts for mathematics and english circled in red sharpie. You put the folder in your backpack and continue to look around the room.\nYou spot the tacky re-make of Monet's Garden on Foster's wall opposite his desk. The painting is slightly ajar....",
+            "image": "PrincipalDesk",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "5",
+                    "A1": "Go to painting",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Go to painting",
+            "block_index": 6,
+            "content": "You inspect the painting, it is definitely off axis.",
+            "image": "Painting",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "6",
+                    "A1": "Remove painting",
+                    "A2": "Return",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Remove painting",
+            "block_index": 7,
+            "content": "The painting comes down. Hiding behind the re-created painting is a SAFE. There's a combination but you need to think...what did Kent tell you?",
+            "image": "Painting",
+            "audio_path": "",
+            "answer_key": "2240",
+            "answers": [
+                {
+                    "key": "7",
+                    "A1": "",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "2240",
+            "block_index": 8,
+            "content": "2...2...4...0...*CLICK*, it works. The safe opens. You reach your hand inside and grab the first thing you see.",
+            "image": "",
+            "audio_path": "opensafe",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "8",
+                    "A1": "Read the paper",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Read the paper",
+            "block_index": 9,
+            "content": "The Calculus tests! Every students final and their answer keys. You found them! Suddenly, the front door to the Principal's office flies open, it's Foster. You are not letting go of those answer keys.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "9",
+                    "A1": "Hello sir",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Stare at Foster",
+            "block_index": 10,
+            "content": "PRINCIPAL: I've called your parents, they are on their way. A bit earlier than we previously thought -- \nYou move backwards toward his desk, trying your best to gain the power position. \nYOU: I know what you've done. Foster notices the painting on the floor, and the open safe.\nPRINCIPAL: We can talk about this.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "10",
+                    "A1": "The setup",
+                    "A2": "The bonuses",
+                    "A3": "The tests "
+                }
+            ]
+        },
+        {
+            "title_key": "The tests",
+            "block_index": 11,
+            "content": "YOU: You stole the tests and distributed them through Kent...used me as the scapegoat.\nPRINCIPAL: ...I think we may need to schedule an appointment with the school shrink. This is worrisome behavior.\nYou hold up the Calculus answer keys.\nYOU: I've spent a lot of time in the Principal's office. Typically, your job is focused on budgets. The last thing on your pre-occupied mind should be an 11th grade Calculus final.\nPRINCIPAL: I am focused on the budget.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "11",
+                    "A1": "You lied!",
+                    "A2": "You are criminal",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "The bonuses",
+            "block_index": 12,
+            "content": "YOU: You gave bonuses to the faculty after inflating student grades...used me as the scapegoat.\nPRINCIPAL: ...I think we may need to schedule an appointment with the school shrink. This is worrisome behavior. \nYou hold up the Calculus answer keys.\nYOU: I've spent a lot of time in the Principal's office. Typically, your job is focused on budgets. The last thing on your pre-occupied mind should be an 11th grade Calculus final.\nPRINCIPAL: I am focused on the budget.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "12",
+                    "A1": "You lied!",
+                    "A2": "You are a criminal",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "The setup",
+            "block_index": 13,
+            "content": "YOU: You stole the tests, and set me up...I was nothing but a scapegoat.\nPRINCIPAL: ...I think we may need to schedule an appointment with the school shrink. This is worrisome behavior.\nYou hold up the Calculus answer keys.\nYOU: I've spent a lot of time in the Principal's office. Typically, your job is focused on budgets. The last thing on your pre-occupied mind should be an 11th grade Calculus final.\nPRINCIPAL: I am focused on the budget.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "13",
+                    "A1": "You lied!",
+                    "A2": "You are a criminal",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "You are a criminal",
+            "block_index": 14,
+            "content": "Principal Foster is quiet for just a moment...\nPRINCIPAL: Kids like you...they all end up in the same place. Mechanic... construction. With your record, you'd be lucky to do that. You already have one expulsion.\nYou've made it to Principal Foster's desk, the PA system is to your left...",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "14",
+                    "A1": "Turn on PA",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "You lied!",
+            "block_index": 15,
+            "content": "Principal Foster is quiet for just a moment...\nPRINCIPAL: Kids like you...they all end up in the same place. Mechanic... construction. With your record, you'd be lucky to do that...You already have one expulsion.\nYou've made it to Principal Foster's desk, the PA system is to your left...",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "15",
+                    "A1": "Turn it on",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Turn it on",
+            "block_index": 16,
+            "content": "YOU turn on the PA system, Foster does not notice.\nPRINCIPAL: No upstanding university is going to accept you. You'll likely head to Fresno for a semester and drop out. Then you'll move right back to your nearest hometown and get an average job. I've seen it thousands of times, and there is nothing wrong with that.",
+            "image": "PAsystem",
+            "audio_path": "paSystem",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "16",
+                    "A1": "My gpa",
+                    "A2": "I have changed",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "My gpa",
+            "block_index": 17,
+            "content": "YOU: I have carried a 3.6 gpa since I came to this school and I'm going to turn you in.\nPRINCIPAL: Who will believe you? Look at your history. I didn't alter your timeline, if anything, I helped accelerate it.\nYOU: The school director will believe me, I have all of the tests...and their cheat sheets.\nPRINCIPAL: Answer keys that you stole from my office? You are a troubled student. I'll tell the district director that I've been concerned about your behavior for a long time.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "17",
+                    "A1": "That is not me",
+                    "A2": "My behavior?!",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "I have changed",
+            "block_index": 18,
+            "content": "YOU: I am not the person I was at my old school. I am going to turn you in.\nPRINCIPAL: Who will believe you? Look at your history. I didn't alter your timeline If anything, I helped accelerate it.\nYOU: The school director will believe me, I have all of the tests...and their cheat sheets.\nPRINCIPAL: Answer keys that you stole from my office? You are a troubled student. I'll tell the district director that I've been concerned about your behavior for a long time.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "18",
+                    "A1": "That is not me",
+                    "A2": "My behavior?!",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "My behavior?!",
+            "block_index": 19,
+            "content": "PRINCIPAL: I'm sorry it had to be you, but the city is coming for my job...Ms. Grables too. She's been here so long. Many teachers rely on this job, we were all at risk. The students in this school are morons, and don't appreciate any of their faculty. We helped them with high grades, and they helped us. The district director provided us with a fat budget for next year. We get well earned bonuses.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "19",
+                    "A1": "Totally shocked",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "That is not me",
+            "block_index": 20,
+            "content": "PRINCIPAL: I'm sorry it had to be you, but they were coming for my job...Ms. Grables too. She's been here so long. The teachers rely on this job, we were all at risk. The students in this school are morons, and don't appreciate any of their faculty. We helped them, and they helped us. The district director provided us with a fat budget for next year. We get well earned bonuses.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "20",
+                    "A1": "Shocking",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Totally shocked",
+            "block_index": 21,
+            "content": "YOU: This... this is unbelievable.\nPRINCIPAL: The school board will never believe the grade bump...but if we give them a culprit...they'll look the other way. \nPRINCIPAL:We, as faculty, will receive the bonuses we deserve. And students like you, can fulfill their societal need and benefit nobody.\nIt's time to end this conversation. Everyone in the school just heard that. ",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "21",
+                    "A1": "Turn off PA system",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Turn off PA system",
+            "block_index": 22,
+            "content": "*CLICK* - The noise interrupts Principal Foster.\nYOU: I've never done the school announcements before...it's pretty fun.\nFor the first time, Principal Foster is petrified.\nYOU: I am going to walk out of here, and I will return for my senior year. I will not report you to the school director or any police. But from now on, you get the HELL OFF MY BACK! \nFrom outside Foster's office, students CHEER! They've heard everything!",
+            "image": "PAsystem",
+            "audio_path": "pasystem",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "22",
+                    "A1": "Approach principal",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Approach principal",
+            "block_index": 23,
+            "content": "YOU: You will TRUST that I am an outstanding student, and treat me as one with a GLOWING reputation.\nYou hold the tests up to his face.\nYOU: Call my parents. Tell them the meeting is off. I look forward to your college recommendation.\nPRINCIPAL: Wait...\nYou can hear the other student's ROAR with joy as you exit.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "23",
+                    "A1": "Exit principals office",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Exit principals office",
+            "block_index": 24,
+            "content": "You exit the Principal's office and enter the hallway. To your surprise, the hallway is completely empty. The cheering is coming from the cafeteria. You walk down the desolate hallway. Considering it's the last minutes of the school year, these halls are particularly empty.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "24",
+                    "A1": "Enter cafeteria",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Enter cafeteria",
+            "block_index": 25,
+            "content": "The double doors swing open and you enter the Cafeteria. Students toss their books, and jump on the tables celebrating - it's the LAST DAY OF SCHOOL!!! \nTowards the entrance is a student rep, monitoring the chaos. You tap him on the shoulder.",
+            "image": "",
+            "audio_path": "mobcelebration",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "25",
+                    "A1": "What's happening?",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "What's happening?",
+            "block_index": 26,
+            "content": "STUDENT REP: Last day of school craziness. WE NEED TO GET IT UNDER CONTROL!\nYOU: How long has this been going on? \nSTUDENT REP: Hour, at least.\nYou are frantic...",
+            "image": "",
+            "audio_path": "mobcelebration",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "26",
+                    "A1": "Did you hear the PA?!",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Did you hear the PA?!",
+            "block_index": 27,
+            "content": "YOU: Did you hear the PA announcement?!\nSTUDENT REP: Of course not! It's like a Slayer show in here...\nYou turn away from the student rep, fearing the worst. Standing in the doorway to the Cafeteria is Principal Foster. He looks on at the last day commotion, but then, his eyes find you. He smiles.\nThe dark clouds are right outside the cafeteria windows...lightning flashes. You look  on at the animalistic students screaming and celebrating. \nYou've never liked this place.",
+            "image": "PrincipalSmile",
+            "audio_path": "mobcelebration",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "27",
+                    "A1": "END",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "END",
+            "block_index": 28,
+            "content": "Thank you for playing Jefferson High! \n-Team Kiki (Christy Ye, Yimeng Chen, Adam Morina & Max Korman)",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "28",
+                    "A1": "",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "dialogue": [
+        {
+            "title_key": "Get into the vent!",
+            "block_index": 0,
+            "content": "You squeeze into the air vent, and take a deep breath. What the hell just happened?! Now you've got the faculty after you?!...You lost your temper back there...CRAP. You don't want to go back to anger management. \nYou continue forward, the metal is cold and it's a tight fit. You can hear all the noises of school below you. The sounds reverberate through the vent.",
+            "image": "vent_1",
+            "audio_path": "climbShelf",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "0",
+                    "A1": "Need an exit",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Need an exit",
+            "block_index": 1,
+            "content": "You crawl forward, and come to a fork in the road.",
+            "image": "vent_1",
+            "audio_path": "airvent",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "1",
+                    "A1": "Left",
+                    "A2": "Right",
+                    "A3": "Middle "
+                }
+            ]
+        },
+        {
+            "title_key": "Left",
+            "block_index": 2,
+            "content": "You choose left and continue to crawl. Below, you hear voices. You look through an opening in the vent. You are right over the computer lab. There is something going on...",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "2",
+                    "A1": "Look down",
+                    "A2": "Right",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Look down",
+            "block_index": 3,
+            "content": "GIRL: How did you do on the test? \nBOY: A. It was easy with the answer key. \nGIRL: I know, right? I recorded the answers and put it on my headphones. \nBOY: A kid in my class didn't use it. \nGIRL: Who? \nBOY: I don't know his name...\nYou continue to crawl.\nYOU: That was me.",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "3",
+                    "A1": "Middle",
+                    "A2": "Keep going",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Right",
+            "block_index": 4,
+            "content": "You choose right and continue to crawl. From below, you hear voices. There is an opening in the vent, you are over the weight gym. Some football jocks are bench press spotting their skinnier, Freshman teammate.",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "4",
+                    "A1": "Listen",
+                    "A2": "Middle",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Listen",
+            "block_index": 5,
+            "content": "JOCK: C'mon Freshman! GET STRONGER! \nFRESHMAN: I'm trying! \nJOCK: You gotta earn your spot on the team! \nThe Freshman can't hold the barbell. \nFRESHMAN: GRAB IT!! \nJOCK: You're fine. \nThe Freshman's elbows give out. The Jock shakes his head in frustration. \nFRESHMAN: What the hell, I thought you were spotting me?!",
+            "image": "ventWithWinBelow",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "5",
+                    "A1": "Keep going",
+                    "A2": "Middle",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Middle",
+            "block_index": 6,
+            "content": "This vent is very, very dark.",
+            "image": "vent_1",
+            "audio_path": "airvent",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "6",
+                    "A1": "Keep going",
+                    "A2": "Left",
+                    "A3": "Right "
+                }
+            ]
+        },
+        {
+            "title_key": "Keep going",
+            "block_index": 7,
+            "content": "You come to another path. Two girls are having a conversation. It's Rose and Su.\nROSE: That new kid...I just heard they're expelling him. \nSU: He stole Grables tests...gave them out. \nROSE: No he didn't... \nSU: What do you mean? \nROSE: I bought my test off a student in Mr. Sussman's class. \nSU: Who? \nROSE: Forgot his name. \nYou continue forward. A pipe is blocking you.",
+            "image": "ventpipe",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "7",
+                    "A1": "",
+                    "A2": "Turn back",
+                    "A3": "Go under "
+                }
+            ]
+        }
+    ]
+}

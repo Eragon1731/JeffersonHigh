@@ -1,0 +1,276 @@
+{
+    "dialogue": [
+        {
+            "title_key": "Get to broad window",
+            "block_index": 0,
+            "content": "You run to the broad window and try to jimmy it open. The keys of Ms. Grable turn in the lock. Just as someone begins to open the door, you pry the broad window free and dive out. You're narrowly safe. Time to speak with Kent.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "0",
+                    "A1": "Go to Music Room",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Go to Music Room",
+            "block_index": 1,
+            "content": "You hear the sounds of a half-time Dave Matthews cover. Kent sits at an elevated podium, playing his signed Jimmy Page guitar. \nYOU: Are you Kent Sussman?",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "1",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "go to C",
+            "block_index": 2,
+            "content": "Kent stops playing at your interruption, he's piturbed. \nKENT: Mr. Sussman...And you're cutting me off because...? \nYOU: I need to speak with you. \nKENT: You were not a student of mine this semester.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "2",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "go to D",
+            "block_index": 3,
+            "content": "YOU: I came here to...buy a test. \nKent smirks. \nKENT: Ms. Grables test? Don't you know that final is done?",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "3",
+                    "A1": "I know you stole them.",
+                    "A2": "That doesn't matter, I'm looking to buy.",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "I know you stole them.",
+            "block_index": 4,
+            "content": "YOU: I know you stole the tests. \nKent laughs. \nKENT: Who are you? Jake Gittes? \nYOU: Let's skip the payment, tell me who your supplier is.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "4",
+                    "A1": "Wait for Kent's answer",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Wait for Kent's answer",
+            "block_index": 5,
+            "content": "Kent laughs. \nKENT: Was that supposed to be tough? \nYOU: Is it Ms. Grable? \nKENT: I know who you are, I thought you'd be scarier. Faculty all talk about you. Loves to fight, cuts class. Didn't you get expelled from your last school? I heard you put a teacher in the hospital... That's why you ended up here. \nYOU: Who is your supplier?",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "5",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Kent answer part 2",
+            "block_index": 6,
+            "content": "KENT: I'm not telling you. In fact, let me call security, have them escort you to Principal Foster.  \nKent heads for the landline phone on the wall, he starts dialing. You look around the room, there are three instruments nearby and you need to think fast.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "6",
+                    "A1": "Drum Stick",
+                    "A2": "Trumpet",
+                    "A3": "Kent's Guitar"
+                }
+            ]
+        },
+        {
+            "title_key": "That doesn't matter, I'm looking to buy.",
+            "block_index": 7,
+            "content": "YOU: I'm looking to buy...I have a lot of money. \nKent thinks for a moment. \nKENT: How much do you have? \nYOU: 50. In my backpack.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "7",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "buy part 2",
+            "block_index": 8,
+            "content": "KENT: 50? I've been charging 300,  minimum. \nYOU: 300...You're ripping kids off. \nKENT: Teacher's salary ain't cuttin it these days. \nYOU: Let's skip the payment, tell me who your supplier is.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "8",
+                    "A1": "Wait for Kent's answer",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Drum Stick",
+            "block_index": 9,
+            "content": "Just as Kent starts to dial, you pick up a Vildjian drumstick sitting on the bass drum and SMACK Kent in the back of the head. He falls! You get on top and continue to rain down thwacking blows with the drum stick. Kent cries out in pain! \nKENT: Please don't hurt me! \nYou get off of Kent and grab his signed Jimmy Page Guitar.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "9",
+                    "A1": "Kent's Guitar",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Trumpet",
+            "block_index": 10,
+            "content": "Just as Kent starts to dial, you pick up a shiny gold trumpet sitting on the chair and come up from behind. You select a note and BLOW into the trumpet! The sound is VIOLENT! Kent falls, you get on top of him and continue to BLARE the trumpet into his ear drums. Kent cries out in pain! \nKENT: Please don't hurt me! \nYou get off of Kent and grab his signed Jimmy Page Guitar.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "10",
+                    "A1": "Kent's Guitar",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Kent's Guitar",
+            "block_index": 11,
+            "content": "You pick up Kent's black Jimmy Page acoustic guitar. \nYOU: Asshole! \nKENT crawls toward you... \nKENT: Put that down. \nYOU: Tell me what the hell is going on or I'll destroy your stupid guitar! \nKENT: Please don't...don't! I'll tell you, just put it down. ",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "11",
+                    "A1": "STOP AND EXPLAIN YOURSELF",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "STOP AND EXPLAIN YOURSELF",
+            "block_index": 12,
+            "content": "YOU: Foster is accusing me of stealing these damn calculus tests! Because of who I am...my fucking history. I didn't do it...No one is going to believe me. I need proof. \nKENT: I honestly don't know anything... \nYOU: DON'T LIE TO ME! AHHHHH!",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "12",
+                    "A1": "Smash the Guitar",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "Smash the Guitar",
+            "block_index": 13,
+            "content": "You SMASH Kent's prized Jimmy page guitar on the ground. Kent cries out! He falls to his knees. You approach him with the remnants of the guitar, holding it like a weapon. \nYOU: Don't let me be thrown out! \nKENT: They don't tell me anything...all I know is a number for a safe.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "13",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "guitar part 2",
+            "block_index": 14,
+            "content": "YOU: A SAFE?! What safe? \nKENT: It's where Grables dropped the tests off... \nYOU: Tell me the code...now. \nKENT: 2240...",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "14",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "guitar part 3",
+            "block_index": 15,
+            "content": "RANDOM VOICE: Hello?? Mr. Sussman? \nFor the first time, you notice the landline phone. It is dangling off the hook because Kent dialed it - there is a voice on the other line. \nSECURITY: This is security, Mr. Sussman are you alright?",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "15",
+                    "A1": "next",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        },
+        {
+            "title_key": "guitar part 4",
+            "block_index": 16,
+            "content": "You look menacingly at Kent. \nYOU: Tell him you're fine... \nKENT: HELP!!!!  \nYOU: God damnett. \nYou back up, scanning the room for a way out. You spot a LARGE VENT just above the sheet music bookshelf. You scale the creaky shelf, and get to the top.",
+            "image": "",
+            "audio_path": "",
+            "answer_key": "",
+            "answers": [
+                {
+                    "key": "16",
+                    "A1": "Enter Vent",
+                    "A2": "",
+                    "A3": ""
+                }
+            ]
+        }
+    ]
+}

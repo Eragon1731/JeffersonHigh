@@ -1,0 +1,28 @@
+{
+    "wrong_answers": [
+        {
+            "title_key": "wrong answer 0",
+            "block_index": 0,
+            "content": "...WRONG PASSWORD!\nYou've entered the wrong password, but the door did not open. Try to to remind yourself of those four correct numbers. There is a 4, there is a 2...",
+            "image": "safeWrong",
+            "audio_path": "incorrectPW",
+            "answer_key": "2240"
+        },
+        {
+            "title_key": "wrong answer 1",
+            "block_index": 1,
+            "content": "...WRONG PASSWORD!\nYou've entered the wrong password, AGAIN; The door did not open. Use your brain... The answer is in your head, on the tip of your tounge... Suddenly, a memory flashes in your head...\n2..2..4........",
+            "image": "safeWrong",
+            "audio_path": "incorrectPW",
+            "answer_key": "2240"
+        },
+        {
+            "title_key": "wrong answer 2",
+            "block_index": 2,
+            "content": "...WRONG PASSWORD!\nYou've entered the wrong password! The door did not open.\nYou can't trust your memory... Your hands start to tremble.",
+            "image": "safeWrong",
+            "audio_path": "incorrectPW",
+            "answer_key": "2240"
+        }
+    ]
+}
